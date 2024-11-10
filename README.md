@@ -1,7 +1,7 @@
 # COVID-19 and Commerce
 
 ## Overview
-This project investigates the impact of COVID-19 on ## within the United States' market over a 10-year period. Utilizing various datasets, the project aims to provide insights into how annual patterns within and across industries were impacted during the pandemic, as well as if they can indicate the start of a post-pandemic era.
+This project investigates the impact of COVID-19 on 18 major industries within the United States' market over a 10-year period. Utilizing various datasets, the project aims to provide insights into how annual patterns within and across industries were impacted during the pandemic, as well as if they can indicate the start of a post-pandemic era.
 
 ## Key Contributions
 Exploratory Data Analysis: 

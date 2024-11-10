@@ -11,9 +11,11 @@ It is well-known that a nation's economy can accurately reflect its well-being, 
 **Video Presentation:** A short 5-minute presentation of the project components, methodologies, and conclusions.
 
 ## Tools and Technologies
-Programming Languages: Python
-Data Analysis Tools: NumPy, Pandas, Statsmodels
-Data Visualization Tools: Matplotlib, Seaborn
+**Programming Languages:** Python
+
+**Data Analysis Tools:** NumPy, Pandas, Statsmodels
+
+**Data Visualization:** Matplotlib, Seaborn
 
 ## Objectives
 1. To analyze historic data on American commerce trends leading up the pandemic
